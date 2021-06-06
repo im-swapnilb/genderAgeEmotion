@@ -1,4 +1,4 @@
-# genderAgeEmotionRace with DeepFace
+# GenderAgeEmotionRace with DeepFace
 ## Model is pretrained with different images
 ### Introduction
 
