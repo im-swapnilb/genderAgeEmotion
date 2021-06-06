@@ -30,10 +30,10 @@ DeepFace is a Facebook research group's deep learning facial recognition technol
 - A database folder containing face photos is expected by the Stream function.
 - In modern face recognition there are 4 steps:
 
-* Detect
-* Align
-* Represent
-* Classify
+# Detect
+$ Align
+^ Represent
+! Classify
 
 
 ### Troubleshooting
