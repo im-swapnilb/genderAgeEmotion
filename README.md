@@ -28,7 +28,7 @@ DeepFace is a Facebook research group's deep learning facial recognition technol
 - Humans can achieve a score of 97.53 percent on facial recognition tasks, whereas this ensemble method achieves a score of 98.57 percent accuracy.
 - The DeepFace interface's stream function will access your webcam and do face recognition and facial attribute analysis. 
 - A database folder containing face photos is expected by the Stream function.
-In modern face recognition there are 4 steps:
+- In modern face recognition there are 4 steps:
 
   - Detect
   - Align
